@@ -1,2 +1,2 @@
 # shanchanglin.github.io
-Project website
+personal website

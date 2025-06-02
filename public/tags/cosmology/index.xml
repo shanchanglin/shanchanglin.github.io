@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/cosmology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Self-consistent construction of virialized wave dark matter halos</title>
-      <link>http://localhost:1313/projects/project1/</link>
+      <link>http://localhost:1313/projects/projectwave/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project1/</guid>
+      <guid>http://localhost:1313/projects/projectwave/</guid>
       <description>This paper studies the virialized Schrödinger-Poisson equation in the spherically symmetric case. Published in Physical Review D, 2018.</description>
     </item>
   </channel>

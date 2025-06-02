@@ -6,14 +6,21 @@
     <description>Recent content in Plasma Physics on Shan-Chang Lin</description>
     <generator>Hugo -- 0.147.5</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/plasma-physics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The spreading of magnetic reconnection X‐line in particle‐in‐cell simulations–mechanism and the effect of drift‐kink instability</title>
+      <link>http://localhost:1313/projects/projectspread/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/projectspread/</guid>
+      <description>This paper studies 3D magnetic reconnection X-line spreading in kinetic regime. Published in Journal of Geophysical Research: Space Physics, 2025</description>
+    </item>
     <item>
       <title>Fast magnetic reconnection induced by resistivity gradients in 2D magnetohydrodynamics</title>
       <link>http://localhost:1313/projects/projectresistivity/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/projectresistivity/</guid>
-      <description>This paper studies the virialized Schrödinger-Poisson equation in the spherically symmetric case. Published in Physical Review D, 2018.</description>
+      <description>This paper studies magnetic reconnection in magnetohydrodynamics regime with a resistivity gradient. Published in Physics of Plasmas, 2021.</description>
     </item>
   </channel>
 </rss>

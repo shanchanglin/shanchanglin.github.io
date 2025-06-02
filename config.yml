@@ -1,0 +1,86 @@
+baseURL: "https://shanchanglin.github.io" 
+title: Shan-Chang Lin
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 20
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Projects
+          url: projects/
+          weight: 2
+       
+
+params:
+    description: "This website hosts Shan-Chang Lin's research papers, curriculum vitae, and contact information."
+    author: Shan-Chang Lin
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["projects"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Shan-Chang Lin
+          subtitle: "I am a PhD candidate in Physics at Dartmouth College. My research focuses on computational plasma physics."
+          imageUrl: "picture1.jpg"
+          imageWidth: 160
+          imageHeight: 140
+          buttons:
+            - name: Projects
+              url: projects/
+
+
+    socialIcons:
+        - name: CV
+          url: CV_SCLin.pdf
+        - name: Email
+          url: mailto:lissajousfigures@gmail.com
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=K6PLelcAAAAJ&hl=en
+        - name: GitHub
+          url: https://github.com/shanchanglin
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Shan-Chang Lin"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2

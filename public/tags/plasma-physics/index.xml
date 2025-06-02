@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Plasma Physics on Shan-Chang Lin</title>
+    <link>http://localhost:1313/tags/plasma-physics/</link>
+    <description>Recent content in Plasma Physics on Shan-Chang Lin</description>
+    <generator>Hugo -- 0.147.5</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 May 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/plasma-physics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fast magnetic reconnection induced by resistivity gradients in 2D magnetohydrodynamics</title>
+      <link>http://localhost:1313/projects/projectresistivity/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/projectresistivity/</guid>
+      <description>This paper studies the virialized Schrödinger-Poisson equation in the spherically symmetric case. Published in Physical Review D, 2018.</description>
+    </item>
+  </channel>
+</rss>

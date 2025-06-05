@@ -4,7 +4,7 @@ date: 2018-05-23
 tags: ["cosmology", "dark matter"]
 author: ["Shan-Chang Lin", "Hsi-Yu Schive", "Shing-Kwong Wong", "Tzihong Chiueh"]
 description: "This paper studies the virialized Schrödinger-Poisson equation in the spherically symmetric case. Published in Physical Review D, 2018." 
-summary: "We solve the Schrödinger-Poisson equation numerically by treating the wavefunction as composed of noninteracting eigenstates and assigning their amplitudes based on a distribution function, assuming spherically symmetric. This method provides a way to construct Milky Way-sized wave dark matter halos." 
+summary: "Using C++ and MPI, we solve the Schrödinger-Poisson equation numerically by treating the wavefunction as composed of noninteracting eigenstates and assigning their amplitudes based on a distribution function, assuming spherically symmetric. This method provides a way to construct Milky Way-sized wave dark matter halos." 
 cover:
     alt: "Self-consistent construction of virialized wave dark matter halos"
     relative: true
@@ -16,7 +16,7 @@ editPost:
 
 ##### Summary
 
-We solve the Schrödinger-Poisson equation numerically by treating the wavefunction as composed of noninteracting eigenstates and assigning their amplitudes based on a distribution function, assuming spherically symmetric, using C++ and MPI. This method provides a way to construct Milky Way-sized wave dark matter halos.
+ Using C++ and MPI, we solve the Schrödinger-Poisson equation numerically by treating the wavefunction as composed of noninteracting eigenstates and assigning their amplitudes based on a distribution function, assuming spherically symmetric. This method provides a way to construct Milky Way-sized wave dark matter halos.
 
 ---
 ##### Abstract

@@ -16,7 +16,7 @@ editPost:
 
 ##### Summary
 
-We solve the Schrödinger-Poisson equation numerically by treating the wavefunction as composed of noninteracting eigenstates and assigning their amplitudes based on a distribution function, assuming spherically symmetric. This method provides a way to construct Milky Way-sized wave dark matter halos.
+We solve the Schrödinger-Poisson equation numerically by treating the wavefunction as composed of noninteracting eigenstates and assigning their amplitudes based on a distribution function, assuming spherically symmetric, using C++ and MPI. This method provides a way to construct Milky Way-sized wave dark matter halos.
 
 ---
 ##### Abstract
